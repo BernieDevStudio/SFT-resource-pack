@@ -1,0 +1,2 @@
+# SFT-resource-pack
+.
