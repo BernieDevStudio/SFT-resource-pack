@@ -1,4 +1,4 @@
-![Simple Food Textures Logo](https://cdn.modrinth.com/data/cached_images/cc3ac18b7c01fa0f498667264ea51bcfd603c270.png)
+[![Simple Food Textures Logo](https://cdn.modrinth.com/data/cached_images/cc3ac18b7c01fa0f498667264ea51bcfd603c270.png)](https://modrinth.com/resourcepack/simplefoodtextures)
 
 <p>
 <p>
